@@ -1,4 +1,4 @@
-import project5_gamerules as gamerules
+import gamerules as gamerules
 import random 
 import pygame 
 
