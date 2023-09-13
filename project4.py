@@ -1,4 +1,4 @@
-import project4_gamerules as gamerules
+import gamerules as gamerules
 
 def _user_input_rows() -> int:
     '''
